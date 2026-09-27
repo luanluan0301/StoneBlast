@@ -1,0 +1,31 @@
+# Thư mục tạm và file tự sinh của Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Các file cấu hình IDE (Visual Studio, VS Code)
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.boop
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# File meta rác
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
